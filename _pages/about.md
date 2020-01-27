@@ -27,7 +27,7 @@ Then during my Junior fall semester year I worked as the MPPT lead where I lead 
 
 Now as part of the research lab with [PEEPRL](https://peeprlgator.github.io/Shuo.Wang/index.html) I am working on revamping the MPPT project as well as adding DPP ([differential power processing](http://www.ieee-ecce.org/2019/conference/tutorials-16/)) as a undergraduate applied research project under the guidance of IEEE fellow Dr. Shuo Wang. 
 
-I also work as a teaching assistant for Power Electronics 1 and Junior Design. I TA'ed Power Electronics 1 in the fall, and am currently TA'ing Junior Design. 
+I also work as a teaching assistant for Power Electronics 1 and Junior Design. I TA'ed Power Electronics 1 Fall 2019 semester, and am currently (Spring 2020) TA'ing Junior Design. 
 
 
 
