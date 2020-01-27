@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
- Thanks for stopping by my website! My name is Andy Yang and I am (as of Spring 2020) a senior in Electrical Engineering. You can check out my [resume](/files/Resumev10.pdf) here, or look at my CV which has my complete list of projects and activities. Feel free to click around the site to see my project portfolio or read up on my blog to see what I am currently working on! 
+ Thanks for stopping by my website! My name is Andy Yang and I am (as of Spring 2020) a senior in Electrical Engineering. You can check out my [resume](/files/Resume v10.0.pdf) here, or look at my CV which has my complete list of projects and activities. Feel free to click around the site to see my project portfolio or read up on my blog to see what I am currently working on! 
 
 
 About me
