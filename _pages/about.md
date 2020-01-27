@@ -19,9 +19,9 @@ When interviewers ask me to give one word that describes me I usually go with te
 
 Academics
 ======
-At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own [electric bike] (https://www.google.com/) my freshman year! 
+At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own [electric bike](https://www.google.com/) my freshman year! 
 
-I've been heavily involved with the university solar car design team [Solar Gators] (https://www.ufsolargators.org/). I've worked in the group since my freshman year, making tons of friends along the way. My sophomore year I was electrical electrical lead, and helped redesign the system as well as integrate the electrical subsystem teams. As the electrical lead, I also took a role in meshing the electrical and mechanical systems.
+I've been heavily involved with the university solar car design team [Solar Gators](https://www.ufsolargators.org/). I've worked in the group since my freshman year, making tons of friends along the way. My sophomore year I was electrical electrical lead, and helped redesign the system as well as integrate the electrical subsystem teams. As the electrical lead, I also took a role in meshing the electrical and mechanical systems.
 
 Then during my Junior fall semester year I worked as the MPPT lead where I lead a team of sophomores and freshman during the task of designing 
 
