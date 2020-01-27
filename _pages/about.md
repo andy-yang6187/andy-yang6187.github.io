@@ -14,7 +14,7 @@ redirect_from:
 
 About me
 ======
-When interviewers ask me to give one word that describes me I usually go with tenacious. It's not that I lack the intellect or wit to learn something quickly, but when _I do struggle_ I tend to become obsessive over the matter. Therewithin also lies my weakness, I suppose, that when faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). Failure still to understand can lead to short depressive episodes. When in a such a rut, I turn to physcial hobbies for relief. I am a big fan of tennis and rock climbing! Though I can not say I am excellent at either (yet). 
+When interviewers ask me to give one word that describes me I usually go with tenacious. It's not that I lack the intellect or wit to learn something quickly, but when _I do struggle_ I tend to become obsessive over the matter. Therewithin also lies my weakness, I suppose, that when faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). When in a rut, I turn to physical hobbies for relief. I am a big fan of tennis and rock climbing! Though I can not say I am excellent at either (yet). 
 
 
 Academics
@@ -23,29 +23,11 @@ At UF I study electrical engineering, with my personal interests in power electr
 
 I've been heavily involved with the university solar car design team [Solar Gators](https://www.ufsolargators.org/). I've worked in the group since my freshman year, making tons of friends along the way. My sophomore year I was electrical electrical lead, and helped redesign the system as well as integrate the electrical subsystem teams. As the electrical lead, I also took a role in meshing the electrical and mechanical systems.
 
-Then during my Junior fall semester year I worked as the MPPT lead where I lead a team of sophomores and freshman during the task of designing 
+Then during my Junior fall semester year I worked as the MPPT lead where I lead a team of sophomores and freshman during the task of designing a maximum power point tracker for harvesting energy from the solar arrays. My work was cut short by my internship at GE Appliances in the Spring of 2019, and by the end of my internship at Texas Instruments Summer 2019, I learned so many new design techniques for power supply design, I decided to scrap the project to start over. 
+
+Now as part of the research lab with [PEEPRL](https://peeprlgator.github.io/Shuo.Wang/index.html) I am working on revamping the MPPT project as well as adding DPP ([differential power processing](http://www.ieee-ecce.org/2019/conference/tutorials-16/)) as a undergraduate applied research project under the guidance of IEEE fellow Dr. Shuo Wang. 
+
+I also work as a teaching assistant for Power Electronics 1 and Junior Design. I TA'ed Power Electronics 1 in the fall, and am currently TA'ing Junior Design. 
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
