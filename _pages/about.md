@@ -14,16 +14,17 @@ redirect_from:
 
 About me
 ======
-When interviewers ask me to give one word that describes me I usually go with tenacious. It's not that I don't have the intellect or wit to learn something quickly, but when _I do struggle_ I tend to become obsessive over the matter. There within also lies my weakness, I suppose, that when faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal!). 
+When interviewers ask me to give one word that describes me I usually go with tenacious. It's not that I lack the intellect or wit to learn something quickly, but when _I do struggle_ I tend to become obsessive over the matter. Therewithin also lies my weakness, I suppose, that when faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). Failure still to understand can lead to short depressive episodes. When in a such a rut, I turn to physcial hobbies for relief. I am a big fan of tennis and rock climbing! Though I can not say I am excellent at either (yet). 
 
-Getting started
+
+Academics
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own [electric bike] (https://www.google.com/) my freshman year! 
+
+I've been heavily involved with the university solar car design team [Solar Gators] (https://www.ufsolargators.org/). I've worked in the group since my freshman year, making tons of friends along the way. My sophomore year I was electrical electrical lead, and helped redesign the system as well as integrate the electrical subsystem teams. As the electrical lead, I also took a role in meshing the electrical and mechanical systems.
+
+Then during my Junior fall semester year I worked as the MPPT lead where I lead a team of sophomores and freshman during the task of designing 
+
 
 Site-wide configuration
 ------
