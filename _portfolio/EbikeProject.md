@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-I started building the electric bike on a whim (and because I had [Red Envelope](https://en.wikipedia.org/wiki/Red_envelope) money left over from the holidays) during my freshman year. I started by doing lots of research and reading about people's experience online. I decided to build an bike as opposed to a skateboard because I didn't know how to ride a skateboard (at that time andyways; now I get around campus on an electric skateboard, </emph like a cool kid>).
+I started building the electric bike on a whim (and because I had [Red Envelope](https://en.wikipedia.org/wiki/Red_envelope) money left over from the holidays) during my freshman year. I started by doing lots of research and reading about people's experience online. I decided to build an bike as opposed to a skateboard because I didn't know how to ride a skateboard (at that time andyways; now I get around campus on an electric skateboard, *like a cool kid*).
 
 As a freshman, I was only equipped with physics and electromagnetic knowledge from highschool physics, so I decided to not invest too much time designing the individual components in the system. I bought the BMS (Battery Management System), Motor Controller, and Battery Charger online. Also, I needed a normal bike to convert -- luckily the apartment complex I was living in at the time had an annual abandoned bike cleanout, and the maintenance man (who I spent the semester befriending) agreed to give me the least deterioted bicycle. 
 
@@ -23,7 +23,7 @@ The 18650 cells I wanted were quite expensive. The [LG MJ1s](https://www.18650ba
     <figcaption> Fig.2 - Side view of the amalgamation of cells I bought. </figcaption>
 </figure>
 
-The cells averaged down to $1-$2 a pop, which was significantly cheaper than the ones I had my eyes set on. However the capacities and internal resistances were also significantly worse. Since I needed to know the capacities of every cell I also bought a 4 cell charger/discharger. This device, seen in fig 3, would be able to measure the capacities as well as the internal resistances of the cells. So I begun the long and arduous journey of measuring and taking note of the capacities of each li-ion cell. I had to charge up the entire cell, then discharge they to measure capacity. 
+The cells averaged down to $1 - $2 a pop, which was significantly cheaper than the ones I had my eyes set on. However the capacities and internal resistances were also significantly worse. Since I needed to know the capacities of every cell I also bought a 4 cell charger/discharger. This device, seen in fig 3, would be able to measure the capacities as well as the internal resistances of the cells. So I begun the long and arduous journey of measuring and taking note of the capacities of each li-ion cell. I had to charge up the entire cell, then discharge they to measure capacity. 
 
 
 <figure>
