@@ -88,7 +88,7 @@ Finally, here is the completed project.
 
 <figure>
     <img style="float: center;" src="/images/Ebike/Ebike!.jpeg">
-    <figcaption> Fig.6 - Letting the wood glue dry on my custom battery box </figcaption>
+    <figcaption> Fig.6 - Finished Ebike! </figcaption>
 </figure>
 
 Unfortunately I didn't take anymore pictures of the bike, or of me and the bike, but the use of the bike was short lived. With the weight of the motor and the weight of the battery pack, moving the bike down and up a flight of stairs was more troubled than what it was worth - furthermore I was always worried about the bike when I was in class so I did not bring it to campus frequently. Then one cold morning when I took it out to ride, the motor controller suddenly blew out on me. That was around the end of freshman year, and shortly after I started my internship at FPL's sister company Next Era Energy in the distributed department. By the time I came back from the internship my role as Solar Gator's Electrical Lead started, and so my desire to fix up the bike lessened drastically. 
