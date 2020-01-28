@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+OOPS! You caught me red handed. . .this is a little embarrasing but I havent finished this page yet! Come check again later. 
+
+<!--->
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
