@@ -42,6 +42,8 @@ As I suspected, when I was down with all the measurements The cell's capacities 
 
 Since the capacity of the cell was limited by *the parallel group with the least capacity* The plan was to maximize the capacity of the pack as a whole by making sure the parallel groups were all evenly matched in capacity. When I did the capacity tests, I numbered the cells and recorded the capacities. Then with the help of my roommate we wrote a script to group the cells together in a way to make the capacities of each paralle group match. 
 
+An important note was to decide the configuration of the battery pack. Since the motor / motor controller was rated for 48V, I used 13 cells in series, which puts the nominal pack voltage of 48.1V (since 13 * 3.7V = 48.1V). Then I just used as many cells as I could to make the parallel groups. The end configuration was 13s11p. 
+
 Once I knew how to group the cells together, it was time to get to work assembling the pack. Initially I made a spot welder from the transformer of a old microwave. I removed the secondary windings from the transformer and used some hefty wiring of my own, since I expected there to be lots of current. In the applicaiton of spot welding high current is needed, so using my knowledge of transformer equations I knew to have 1 or 2 windings on the secondary side. I also salvaged the door switch from the microwave to use as my on and off switch since it was a momentary on switch and was conviently there. 
 
 Unfortunately when I started testing I obliterated through the nickel strips I bought when I tried to spot weld them together. After several unsuccessful attempts I decided to bite the dust and ask the ECE department at UF if they had a spotwelder I could use. I also asked the mechanical department, to which they responded they had a sheet metal spot welder (I was amused by the thought of even attempting to use this on a battery) but not the battery spot welder I was looking for. (Later I realized the reason I oblierated through the weld was because without pulsing of the welder I had no control of the current, and to acheive the best welds I needed to control the spot welder to PWM the welding.) The ECE department didn't have a spot welder, but offered to buy one and let me use, if I specc'ed one out (thanks Mike!). 
@@ -63,7 +65,7 @@ After assembling the battery pack the next step was soldering the BMS leads onto
     <figcaption> Fig.6 - Getting ready to solder the BMS onto the pack </figcaption>
 </figure>
 
-During the process of soldering I had accidently shorted a cell, by melting the insulating sleeve. Thankfully the result wasn't too explosive, and the cell extinguished it self before going into thermal runaway. 
+During the process of soldering I had accidently shorted a cell, by melting the insulating sleeve. Thankfully the result wasn't too explosive, and the cell extinguished it self before going into thermal runaway. By messing up a cell here, I actually had momentarily to remove a parallel group (this explains why there are 12 in series in fig 6 as opposed to 13) to weld again using NEB's spot welder.
 
 <figure>
     <img style="float: center;" src="/images/Ebike/ShortedCell.jpeg">
