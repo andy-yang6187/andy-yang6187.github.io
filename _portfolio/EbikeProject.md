@@ -13,11 +13,14 @@ The hard part was figuring out how to build the battery pack. Most people online
 
 The 18650 cells however were quite expensive. The [LG MJ1s](https://www.18650batterystore.com/product-p/lg-mj1-18650-batteries.htm) that the solar car team uses costs up to $5 a cell! The car uses something like 400 of these cells (20s20p). I read online that old laptop batteries used to use these same type of cells too, so I went on ebay to check for availability. Thankfully I was able to find a large stash of these cells! 
 
-<img style="float: center;" src="/images/IMG_1926.jpeg"> 
+<figure>
+    <img style="float: center;" src="/images/IMG_1926.jpeg"> 
+    <figcaption> Fig.1 - Top down view of the amalgamation of cells I bought. </figcaption>
+</figure>
 
-
-<img style="float: center;" src="/images/IMG_1927.jpeg">
-
-
+<figure>
+    <img style="float: center;" src="/images/IMG_1927.jpeg">
+    <figcaption> Fig.2 - Side view of the amalgamation of cells I bought. </figcaption>
+</figure>
 
 
