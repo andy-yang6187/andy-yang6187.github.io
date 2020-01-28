@@ -14,7 +14,7 @@ redirect_from:
 
 About me
 ======
-When interviewers ask me to give one word that describes me I usually go with tenacious. When working a particularly tough problem I tend to become obsessive it. It is usually hard for me to let it go.  Therewithin also lies my weakness, I suppose, that when faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). When in a rut, I turn to physical hobbies for relief. I am a big fan of tennis and rock climbing! Though I can not say I am excellent at either (yet). 
+When interviewers ask me to give one word that describes me I usually go with tenacious. When working a particularly tough problem I tend to become obsessive over it. It is usually hard for me to let it go.  Therewithin also lies my weakness, I suppose, that when faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). When in a rut, I turn to physical hobbies for relief. I am a big fan of tennis and rock climbing! Though I can not say I am excellent at either (yet). 
 
 
 Academics
