@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-I started building the electric bike on a whim (and because I had [Red Envelope](https://en.wikipedia.org/wiki/Red_envelope) money left over from the holidays) during my freshman year. I started by doing lots of research and reading about people's experience online. I decided to build an bike as opposed to a skateboard because I didn't know how to ride a skateboard (at that time andyways; now I get around campus on an electric skateboard, *like a cool kid*).
+I started building the electric bike on a whim (and because I had [Red Envelope](https://en.wikipedia.org/wiki/Red_envelope) money left over from the holidays) during my freshman year. I started by doing lots of research and reading about people's experience online. I decided to build an bike as opposed to a skateboard because I didn't know how to ride a skateboard (at that time anyways; now I get around campus on an electric skateboard, *like a cool kid*).
 
 As a freshman, I was only equipped with physics and electromagnetic knowledge from highschool physics, so I decided to not invest too much time designing the individual components in the system. I bought the BMS (Battery Management System), Motor Controller, and Battery Charger online. Also, I needed a normal bike to convert -- luckily the apartment complex I was living in at the time had an annual abandoned bike cleanout, and the maintenance man (who I spent the semester befriending) agreed to give me the least deterioted bicycle. 
 
