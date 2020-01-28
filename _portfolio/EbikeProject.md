@@ -23,7 +23,7 @@ The 18650 cells I wanted were quite expensive. The [LG MJ1s](https://www.18650ba
     <figcaption> Fig.2 - Side view of the amalgamation of cells I bought. </figcaption>
 </figure>
 
-The cells averaged down to $1 - $2 a pop, which was significantly cheaper than the ones I had my eyes set on. However the capacities and internal resistances were also significantly worse. Since I needed to know the capacities of every cell I also bought a 4 cell charger/discharger. This device, seen in fig 3, would be able to measure the capacities as well as the internal resistances of the cells. So I begun the long and arduous journey of measuring and taking note of the capacities of each li-ion cell. I had to charge up the entire cell, then discharge they to measure capacity. 
+The cells averaged down to $1 to $2 a pop, which was significantly cheaper than the ones I had my eyes set on. However the capacities and internal resistances were also significantly worse. Since I needed to know the capacities of every cell I also bought a 4 cell charger/discharger. This device, seen in fig 3, would be able to measure the capacities as well as the internal resistances of the cells. So I begun the long and arduous journey of measuring and taking note of the capacities of each li-ion cell. I had to charge up the entire cell, then discharge they to measure capacity. 
 
 
 <figure>
@@ -40,7 +40,7 @@ As I suspected, when I was down with all the measurements The cell's capacities 
     <figcaption> Fig.4 - These cells showed drastic differenced in their capacities. </figcaption>
 </figure>
 
-Since the capacity of the cell was limited by </emph the parallel group with the least capacity> The plan was to maximize the capacity of the pack as a whole by making sure the parallel groups were all evenly matched in capacity. When I did the capacity tests, I numbered the cells and recorded the capacities. Then with the help of my roommate we wrote a script to group the cells together in a way to make the capacities of each paralle group match. 
+Since the capacity of the cell was limited by *the parallel group with the least capacity* The plan was to maximize the capacity of the pack as a whole by making sure the parallel groups were all evenly matched in capacity. When I did the capacity tests, I numbered the cells and recorded the capacities. Then with the help of my roommate we wrote a script to group the cells together in a way to make the capacities of each paralle group match. 
 
 Once I knew how to group the cells together, it was time to get to work assembling the pack. Initially I made a spot welder from the transformer of a old microwave. I removed the secondary windings from the transformer and used some hefty wiring of my own, since I expected there to be lots of current. In the applicaiton of spot welding high current is needed, so using my knowledge of transformer equations I knew to have 1 or 2 windings on the secondary side. I also salvaged the door switch from the microwave to use as my on and off switch since it was a momentary on switch and was conviently there. 
 
