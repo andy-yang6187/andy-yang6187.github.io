@@ -65,7 +65,7 @@ After assembling the battery pack the next step was soldering the BMS leads onto
     <figcaption> Fig.6 - Getting ready to solder the BMS onto the pack </figcaption>
 </figure>
 
-During the process of soldering I had accidently shorted a cell, by melting the insulating sleeve. Thankfully the result wasn't too explosive, and the cell extinguished it self before going into thermal runaway. By messing up a cell here, I actually had momentarily to remove a parallel group (this explains why there are 12 in series in fig 6 as opposed to 13) to weld again using NEB's spot welder.
+During the process of soldering I had accidently shorted a cell, by melting the insulating sleeve. Thankfully the result wasn't too explosive, and the cell extinguished it self before going into thermal runaway. By messing up a cell here, I actually had to momentarily to remove a parallel group (this explains why there are 12 in series in fig 6 as opposed to 13) to weld again using NEB's spot welder.
 
 <figure>
     <img style="float: center;" src="/images/Ebike/ShortedCell.jpeg">
