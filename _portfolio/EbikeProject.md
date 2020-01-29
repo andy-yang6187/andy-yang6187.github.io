@@ -1,6 +1,6 @@
 ---
 title: "Electric Bike Project"
-excerpt: "Freshman Project <br/><img src='/images/Ebike/Ebike!.jpeg' height='300' width='300' >"
+excerpt: "Freshman Project <br/><img src='/images/Ebike/Ebike!.jpeg' height='300' width='100' >"
 collection: portfolio
 ---
 
