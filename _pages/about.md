@@ -14,7 +14,7 @@ redirect_from:
 
 About me
 ======
-When interviewers ask me to give one word that describes me I usually go with tenacious. When working a particularly tough problem I tend to become obsessive over it. It is usually hard for me to let it go.  When faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). For stress relief I turn to physical hobbies: I am a big fan of tennis and rock climbing. 
+When interviewers ask me to give one word that describes me I usually go with tenacious. When working a particularly tough problem I tend to become obsessive over it. When faced up against a wall, I tend to forget everything else around me (even if it means skipping a meal or two!). For stress relief I turn to physical hobbies: I am a big fan of tennis and rock climbing.
 
 
 Academics and Engineering Interests
