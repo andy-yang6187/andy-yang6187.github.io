@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
- Thanks for stopping by my website! My name is Andy Yang and I am (as of Spring 2020) a senior in Electrical Engineering. You can check out my [resume](/files/Resume v10.0.pdf) here, or look at my CV which has my complete list of projects and activities. Feel free to click around the site to see my project portfolio or read up on my blog to see what I am currently working on! 
+ Thanks for stopping by my website! My name is Andy Yang and I am (as of Spring 2020) a senior in Electrical Engineering. You can check out my [resume](/files/Resume v10.0.pdf) to see what I've been up to.
 
 
 About me
@@ -19,7 +19,7 @@ When interviewers ask me to give one word that describes me I usually go with te
 
 Academics
 ======
-At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own [electric bike](https://andyyangengineer.com/portfolio/EbikeProject/) my freshman year! 
+At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own electric my freshman year. I learned about managing battery packs by building a battery pack for the ebike from used laptop 18650 cells I got in bulk from ebay. To ensure maximum capacity I had to match cells for my pack. 
 
 I've been heavily involved with the university solar car design team [Solar Gators](https://www.ufsolargators.org/). I've worked in the group since my freshman year, making tons of friends along the way. My sophomore year I was the electrical lead, and helped redesign the system as well as integrate the electrical subsystem teams. As the electrical lead, I also took a role in meshing the electrical and mechanical systems.
 
