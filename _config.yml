@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andy Yang's Website"
+title                    : "Welcome to my site!"
 title_separator          : "-"
 name                     : &name "Andy Yang"
 description              : &description "Ambitious Engineering Student"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andy Yang"
   avatar           : "Yang_Andy.JPG"
-  bio              : "Electrical Engineering Student at the University of Florida"
+  bio              : "EE Student at UF with passion in Power Electronics"
   location         : "Gainesville, FL"
   employer         : 
   pubmed           :
