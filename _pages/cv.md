@@ -10,5 +10,6 @@ redirect_from:
 {% include base_path %}
 
 OOPS! You caught me red handed. . .this is a little embarrasing but I havent finished this page yet! Come check again later. 
+Google doc viewer: 
 
-https://github.com/andy-yang6187/andy-yang6187.github.io/blob/master/files/Resume%20v10.0.pdf
+https://docs.google.com/viewer?url=${https://github.com/andy-yang6187/andy-yang6187.github.io/blob/master/files/Resume%20v10.0.pdf}
