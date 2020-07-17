@@ -19,7 +19,7 @@ When interviewers ask me to give one word that describes me I usually go with te
 
 Academics and Engineering Interests
 ======
-At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own electric my freshman year. I learned about managing battery packs by building a battery pack for the ebike from used laptop 18650 cells I got in bulk from ebay (don't worry I took precautions to maximize the pack capacity). 
+At UF I study electrical engineering, with my personal interests in power electronics. My interests here started pretty early when I built my own [electric bike](/portfolio/) my freshman year. I learned about managing battery packs by building a battery pack for the ebike from used laptop 18650 cells I got in bulk from ebay (don't worry I took precautions to maximize the pack capacity). 
 
 My fascination with power electronics and my desire to make my career above power electronics was significantly influenced by my experience in [Solar Gators](https://www.ufsolargators.org/) the university solar car design team. I've worked in the group since my freshman year, making tons of friends along the way. My sophomore year I was the electrical lead, and helped redesign the system as well as ramp up new members. As the electrical lead, I also took on the role to facillitate teamwork and communication between electrical and mechanical systems. 
 
