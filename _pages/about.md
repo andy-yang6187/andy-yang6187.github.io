@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
- Thanks for stopping by my website! My name is Andy Yang and I am (as of Spring 2020) a senior in Electrical Engineering. You can check out my [resume](/resume/ to see what I've been up to.
+ Thanks for stopping by my website! My name is Andy Yang and I am (as of Spring 2020) a senior in Electrical Engineering. You can check out my [resume](/resume/) to see what I've been up to.
 
 
 About me
