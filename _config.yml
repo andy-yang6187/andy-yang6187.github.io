@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my site!"
+title                    : "Andy Yang"
 title_separator          : "-"
 name                     : &name "Andy Yang"
 description              : &description "Ambitious Engineering Student"
