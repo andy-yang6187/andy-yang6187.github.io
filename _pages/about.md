@@ -25,5 +25,11 @@ My fascination with power electronics and my desire to make my career above powe
 
 I've also helped teach Power Electronics 1 and Junior Design as an undergrad TA. I TA'ed Power Electronics 1 Lab (EEL 4242C) Fall 2019 semester and Junior Design / Design 1 (EEL 3923C) Spring 2020 semester. 
 
+Projects
+======
+
+[Electric Bike](portfolio/EbikeProject/)
+[Drone] (portfolio/Drone/)
+
 
 
