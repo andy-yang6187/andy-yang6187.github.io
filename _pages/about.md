@@ -30,7 +30,7 @@ Projects
 
 [Electric Bike](portfolio/EbikeProject/)
 
-[Drone] (portfolio/Drone/)
+[Drone](portfolio/Drone/)
 
 
 
